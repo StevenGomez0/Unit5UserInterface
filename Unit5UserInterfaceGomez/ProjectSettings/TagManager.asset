@@ -5,11 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bad
+  - Sensor
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Objects
   - Water
   - UI
   - 
